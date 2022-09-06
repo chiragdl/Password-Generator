@@ -1,2 +1,2 @@
 # Password-Regenerator
-Regeneration of existing password using python programming
+generation of existing password using python programming
